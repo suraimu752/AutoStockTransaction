@@ -2,7 +2,7 @@
 	"Name": "AutoStockTransaction",
 	"ID": "AutoStockTransaction",
 	"Author": "suraimu752",
-	"Description": "AutoStockTransaction\nusing five number from "Insugar Trading" (was made by staticvariablejames)",
+	"Description": "AutoStockTransaction\nUsing five-number from 'Insugar Trading' (was made by staticvariablejames)",
 	"ModVersion": 1.0,
 	"GameVersion": 2.042,
 	"Date": "28/09/2021",
